@@ -46,7 +46,7 @@ Python
 
 along with a guide explaining how to run each program.
 
-➡ Open **Python/README.md**
+➡ Open **Python/Instructions for Python.md"**
 
 ---
 
