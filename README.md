@@ -11,7 +11,7 @@ The project demonstrates two different approaches to establishing client-server 
 ```
 .
 ├── Netcat/
-└── Python/
+└── Python Connection/
 ```
 
 ### 📁 Netcat
