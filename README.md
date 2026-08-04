@@ -27,7 +27,7 @@ Contents include:
 - Command explanations
 - Screenshots
 
-➡ Open **Netcat/README.md**
+➡ Open **Netcat/NETCAT instructions.md**
 
 ---
 
